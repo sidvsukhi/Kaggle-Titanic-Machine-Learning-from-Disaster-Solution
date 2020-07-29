@@ -20,7 +20,7 @@ It is my solution to the Kaggle's famous Titanic challenge.
   <ol>7. Getting train and test data frames</ol>
   <ol>8. Fitting various models and trying which is better- [SVM, KNN, RandomForest, DecisionTree, Perceptron, LogisticRegression, EnsembleModel]</ol>
   <ol>9. Selecting the best suited model</ol>
-  <ol>10. Ssaving final output</ol>
+  <ol>10. Saving final output</ol>
 </br></br>
 <h4>Solution Image</h4></br>
 

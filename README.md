@@ -1,8 +1,10 @@
 # Kaggle-Titanic-Machine-Learning-from-Disaster-Solution
 It is my solution to the Kaggle's famous Titanic challenge.
 </br></br>
-<h5>Titanic</h5></br>
-![Titanic Image](https://github.com/sidvsukhi/Kaggle-Titanic-Machine-Learning-from-Disaster-Solution/blob/master/Titanic.jpg)</br></br>
+<h4>Titanic</h4></br>
+
+![Titanic Image](https://github.com/sidvsukhi/Kaggle-Titanic-Machine-Learning-from-Disaster-Solution/blob/master/Titanic.jpg)
+</br></br>
 
 <h4>Files:-</h4>
   <ol>1. .ipynb file- Jupyter notebook solution made on kaggle</ol>
@@ -20,5 +22,5 @@ It is my solution to the Kaggle's famous Titanic challenge.
   <ol>9. Selecting the best suited model</ol>
   <ol>10. Ssaving final output</ol>
 </br></br>
-<h5>Solution Image</h5></br>
-![Solution Image](https://github.com/sidvsukhi/Kaggle-Titanic-Machine-Learning-from-Disaster-Solution/blob/master/solution.JPG)</br></br>
+<h4>Solution Image</h4></br>
+![Solution Image](https://github.com/sidvsukhi/Kaggle-Titanic-Machine-Learning-from-Disaster-Solution/blob/master/solution.JPG)

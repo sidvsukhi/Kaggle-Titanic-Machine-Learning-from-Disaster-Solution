@@ -4,12 +4,10 @@ It is my solution to the Kaggle's famous Titanic challenge.
 <h5>Titanic</h5></br>
 ![Titanic Image](https://github.com/sidvsukhi/Kaggle-Titanic-Machine-Learning-from-Disaster-Solution/blob/master/Titanic.jpg)</br></br>
 
-<h4>Files:-</h4></br>
-<li>
+<h4>Files:-</h4>
   <ol>1. .ipynb file- Jupyter notebook solution made on kaggle</ol>
   <ol>2. .py file- Python file with step by step solution to the problem.</ol>
   <ol>3. Titanic_Output.csv- Output file submitted</ol>
-</li>
 </br></br><h4>Procedure followed:-</h4>
   <ol>1. Importing train and test file</ol>
   <ol>2. Getting description about the data- [mean, count, info]</ol>

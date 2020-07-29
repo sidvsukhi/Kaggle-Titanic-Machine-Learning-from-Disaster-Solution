@@ -11,9 +11,7 @@ It is my solution to the Kaggle's famous Titanic challenge.
   <ol>3. Titanic_Output.csv- Output file submitted</ol>
 </li>
 </br></br>
-
-<h4>Procedure followed:-</h4></br>
-<li>
+<li><h4>Procedure followed:-</h4>
   <ol>1. Importing train and test file</ol>
   <ol>2. Getting description about the data- [mean, count, info]</ol>
   <ol>3. Taking care of the NAN values in train,test data- [Age, Fare, Embarked]</ol>

@@ -23,4 +23,5 @@ It is my solution to the Kaggle's famous Titanic challenge.
   <ol>10. Ssaving final output</ol>
 </br></br>
 <h4>Solution Image</h4></br>
+
 ![Solution Image](https://github.com/sidvsukhi/Kaggle-Titanic-Machine-Learning-from-Disaster-Solution/blob/master/solution.JPG)

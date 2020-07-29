@@ -12,7 +12,7 @@ It is my solution to the Kaggle's famous Titanic challenge.
 
 <h4>Procedure followed:-</h4></br>
 <li>
-  <ol>1. Importing train and test file</ol>
+  <ol>Importing train and test file</ol>
   <ol>2. Getting description about the data like mean, count, info</ol>
   <ol>3. Taking care of the NAN values in train,test data</ol>
   <ol>4. </ol> 
